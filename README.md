@@ -8,7 +8,7 @@ Software Engineer with more than 5 years of commertial experience. I am engaged 
    </a>
 </p>
 <p align='center'>
-   📫 How to reach me: <a href='mailto:whiteguard52@gmail.com'>whiteguard52@gmail.com</a>
+   📫 How to reach me: <a href='mailto:whiteguard52@yandex.ru'>whiteguard52@yandex.ru</a>
 </p>
 
 ## 🛠 Technical Stack
